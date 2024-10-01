@@ -17,6 +17,7 @@
 Siempre he trabajado en SO de Windows aunque también he trabajado con Linux.
 
 He trabajado con **HTML y CSS** realizando paginas webs interactivas con uso de **BASES DE DATOS** usando **MySQL**
+
 También he aprendido de forma autodidacta ciertos aspectos del **Hacking Etico** con **KALI LINUX**
 
 Soy una persona muy sociable y con ganas de trabajar, aunque ahora mismo lo que mas me apetece es adquirir conocimientos😁💪🏼

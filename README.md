@@ -4,7 +4,7 @@
 - 🧠 Ahora mismo me interesa participar en cualquier proyecto para ir aprendiendo de cualquier cosa, tengo muchas ganas de aprender y me gusta mucho dar el 100%.
 - 🧾 Métodos de contacto:
   
-  -💻[LinkedIn] https://www.linkedin.com/in/iván-seco-martín-aa4756177/
+  -💻[LinkedIn] www.linkedin.com/in/ivansecodev
   
   -📧 [Correo]  iviseco34@gmail.com
 
